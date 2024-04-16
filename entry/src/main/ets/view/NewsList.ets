@@ -22,7 +22,7 @@ import NewsItem from './NewsItem';
 import LoadMoreLayout from './LoadMoreLayout';
 import RefreshLayout from './RefreshLayout';
 import CustomRefreshLoadLayout from './CustomRefreshLoadLayout';
-import { CustomRefreshLoadLayoutClass, NewsData } from '../model/NewsData';
+import { CustomRefreshLoadLayoutModel, NewsData } from '../model/NewsData';
 import { listTouchEvent } from '../common/utils/PullDownRefresh';
 import NewsViewModel from '../viewmodel/NewsViewModel';
 import NoMoreLayout from './NoMoreLayout';
@@ -33,6 +33,7 @@ import NewsModel from '../viewmodel/NewsModel';
  */
 @Component
 export default struct NewsList {
+  // 最佳实践：将杂乱的数据抽走放到某个 Model 里统一维护
   @State newsModel: NewsModel = new NewsModel();
   @Watch('changeCategory') @Link currentIndex: number;
 
@@ -86,7 +87,7 @@ export default struct NewsList {
   }
 
   @Builder LoadingLayout() {
-    CustomRefreshLoadLayout({ customRefreshLoadClass: new CustomRefreshLoadLayoutClass(true,
+    CustomRefreshLoadLayout({ customRefreshLoadClass: new CustomRefreshLoadLayoutModel(true,
       $r('app.media.ic_pull_up_load'), $r('app.string.pull_up_load_text'), this.newsModel.pullDownRefreshHeight) })
   }
 
@@ -94,7 +95,7 @@ export default struct NewsList {
     List() {
       ListItem() {
         RefreshLayout({
-          refreshLayoutClass: new CustomRefreshLoadLayoutClass(this.newsModel.isVisiblePullDown, this.newsModel.pullDownRefreshImage,
+          refreshLayoutModel: new CustomRefreshLoadLayoutModel(this.newsModel.isVisiblePullDown, this.newsModel.pullDownRefreshImage,
             this.newsModel.pullDownRefreshText, this.newsModel.pullDownRefreshHeight)
         })
       }
@@ -112,7 +113,7 @@ export default struct NewsList {
       ListItem() {
         if (this.newsModel.hasMore) {
           LoadMoreLayout({
-            loadMoreLayoutClass: new CustomRefreshLoadLayoutClass(this.newsModel.isVisiblePullUpLoad, this.newsModel.pullUpLoadImage,
+            loadMoreLayoutModel: new CustomRefreshLoadLayoutModel(this.newsModel.isVisiblePullUpLoad, this.newsModel.pullUpLoadImage,
               this.newsModel.pullUpLoadText, this.newsModel.pullUpLoadHeight)
           })
         } else {

@@ -67,7 +67,7 @@ export class NewsFile {
  * Custom refresh load layout data.
  */
 @Observed
-export class CustomRefreshLoadLayoutClass {
+export class CustomRefreshLoadLayoutModel {
   /**
    * Custom refresh load layout isVisible.
    */

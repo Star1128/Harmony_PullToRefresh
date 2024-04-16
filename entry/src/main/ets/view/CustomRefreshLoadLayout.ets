@@ -13,15 +13,15 @@
  * limitations under the License.
  */
 
-import { CustomRefreshLoadLayoutClass } from '../model/NewsData';
+import { CustomRefreshLoadLayoutModel } from '../model/NewsData';
 import { CommonConstant as Const } from '../common/constant/CommonConstant';
 
 /**
  * Custom layout to show refresh or load.
  */
 @Component
-export default struct CustomLayout {
-  @ObjectLink customRefreshLoadClass: CustomRefreshLoadLayoutClass;
+export default struct CustomRefreshLoadLayout {
+  @ObjectLink customRefreshLoadClass: CustomRefreshLoadLayoutModel;
 
   build() {
     Row() {

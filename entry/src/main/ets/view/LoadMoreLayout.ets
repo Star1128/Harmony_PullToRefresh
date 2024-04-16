@@ -14,26 +14,26 @@
  */
 
 import CustomRefreshLoadLayout from './CustomRefreshLoadLayout';
-import { CustomRefreshLoadLayoutClass } from '../model/NewsData';
+import { CustomRefreshLoadLayoutModel } from '../model/NewsData';
 
 /**
  * The load more layout component.
  */
 @Component
 export default struct LoadMoreLayout {
-  @ObjectLink loadMoreLayoutClass: CustomRefreshLoadLayoutClass;
+  @ObjectLink loadMoreLayoutModel: CustomRefreshLoadLayoutModel;
 
   build() {
     Column() {
-      if (this.loadMoreLayoutClass.isVisible) {
+      if (this.loadMoreLayoutModel.isVisible) {
         CustomRefreshLoadLayout({
-          customRefreshLoadClass: new CustomRefreshLoadLayoutClass(this.loadMoreLayoutClass.isVisible,
-            this.loadMoreLayoutClass.imageSrc, this.loadMoreLayoutClass.textValue, this.loadMoreLayoutClass.heightValue)
+          customRefreshLoadClass: new CustomRefreshLoadLayoutModel(this.loadMoreLayoutModel.isVisible,
+            this.loadMoreLayoutModel.imageSrc, this.loadMoreLayoutModel.textValue, this.loadMoreLayoutModel.heightValue)
         })
       } else {
         CustomRefreshLoadLayout({
-          customRefreshLoadClass: new CustomRefreshLoadLayoutClass(this.loadMoreLayoutClass.isVisible,
-            this.loadMoreLayoutClass.imageSrc, this.loadMoreLayoutClass.textValue, 0)
+          customRefreshLoadClass: new CustomRefreshLoadLayoutModel(this.loadMoreLayoutModel.isVisible,
+            this.loadMoreLayoutModel.imageSrc, this.loadMoreLayoutModel.textValue, 0)
         })
       }
     }

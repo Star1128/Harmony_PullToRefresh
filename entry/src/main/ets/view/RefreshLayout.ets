@@ -14,21 +14,21 @@
  */
 
 import CustomRefreshLoadLayout from './CustomRefreshLoadLayout';
-import { CustomRefreshLoadLayoutClass } from '../model/NewsData';
+import { CustomRefreshLoadLayoutModel } from '../model/NewsData';
 
 /**
  * The refresh layout component.
  */
 @Component
 export default struct RefreshLayout {
-  @ObjectLink refreshLayoutClass: CustomRefreshLoadLayoutClass;
+  @ObjectLink refreshLayoutModel: CustomRefreshLoadLayoutModel;
 
   build() {
     Column() {
-      if (this.refreshLayoutClass.isVisible) {
-        CustomRefreshLoadLayout({ customRefreshLoadClass: new CustomRefreshLoadLayoutClass
-        (this.refreshLayoutClass.isVisible, this.refreshLayoutClass.imageSrc, this.refreshLayoutClass.textValue,
-          this.refreshLayoutClass.heightValue) })
+      if (this.refreshLayoutModel.isVisible) {
+        CustomRefreshLoadLayout({ customRefreshLoadClass: new CustomRefreshLoadLayoutModel
+        (this.refreshLayoutModel.isVisible, this.refreshLayoutModel.imageSrc, this.refreshLayoutModel.textValue,
+          this.refreshLayoutModel.heightValue) })
       }
     }
   }
