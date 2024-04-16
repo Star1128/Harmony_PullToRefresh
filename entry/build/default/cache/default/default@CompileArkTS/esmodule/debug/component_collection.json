@@ -1,0 +1,62 @@
+{
+  "entry/src/main/ets/entryability/EntryAbility.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/pages/Index.ets": [
+    "Column"
+  ],
+  "entry/src/main/ets/view/TabBar.ets": [
+    "Column",
+    "Text",
+    "Tabs",
+    "ForEach",
+    "TabContent"
+  ],
+  "entry/src/main/ets/view/NewsItem.ets": [
+    "Column",
+    "Row",
+    "Image",
+    "Text",
+    "Grid",
+    "ForEach",
+    "GridItem"
+  ],
+  "entry/src/main/ets/view/LoadMoreLayout.ets": [
+    "Column",
+    "If"
+  ],
+  "entry/src/main/ets/view/CustomRefreshLoadLayout.ets": [
+    "Row",
+    "Image",
+    "Text"
+  ],
+  "entry/src/main/ets/view/RefreshLayout.ets": [
+    "Column",
+    "If"
+  ],
+  "entry/src/main/ets/common/utils/PullDownRefresh.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/common/utils/PullUpLoadMore.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/viewmodel/NewsViewModel.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/common/utils/HttpUtil.ets": [
+    "If"
+  ],
+  "entry/src/main/ets/view/NoMoreLayout.ets": [
+    "Row",
+    "Text"
+  ],
+  "entry/src/main/ets/view/NewsList.ets": [
+    "Column",
+    "List",
+    "ListItem",
+    "ForEach",
+    "Image",
+    "Text",
+    "If"
+  ]
+}

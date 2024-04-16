@@ -1,0 +1,1104 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:11:4.1.0.71:Release",
+  "fileList": {
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/entryability/EntryAbility.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/kits/@kit.AbilityKit.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.ability.ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/ability/dataAbilityHelper.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/ability/dataAbilityOperation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.ability.featureAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/ability/startAbilityParameter.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/ability/abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/app/context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundle/applicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundle/hapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundle/abilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.bundle.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.drawableDescriptor.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundle/bundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/ability/connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/component/common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundleManager/ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundleManager/AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundleManager/BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundleManager/HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/bundleManager/ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/ProcessInformation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.appManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.multimodalInput.pointer.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.data.unifiedDataChannel.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.observer.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.UIContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.mediaquery.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/component/units.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.dragController.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.data.dataAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.data.rdb.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.ability.particleAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/notification/notificationRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.notification.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/notification/notificationSlot.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.notificationManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/notification/notificationActionButton.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/wantAgent/wantAgentInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/wantAgent/triggerInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/notification/notificationContent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.abilityAccessCtrl.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.AbilityStage.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/AbilityStageContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.ActionExtensionAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.UIExtensionAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.ExtensionAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.UIExtensionContentSession.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/UIExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/ExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.appRecovery.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.autoFillManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.childProcessManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/FormExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/application/VpnExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.errorManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.InsightIntentContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.InsightIntentExecutor.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.app.ability.ShareExtensionAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.bundle.defaultAppManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.bundle.overlay.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.continuation.continuationManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/continuation/continuationExtraParams.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.privacyManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/kits/@kit.PerformanceAnalysisKit.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.faultLogger.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.hiviewdfx.hiAppEvent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/kits/@kit.ArkUI.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.Chip.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.ComposeListItem.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.ComposeTitleBar.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.Dialog.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.EditableTitleBar.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.Filter.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.SegmentButton.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.SelectTitleBar.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.SplitLayout.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.SubHeader.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.TabTitleBar.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.ToolBar.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.advanced.TreeView.d.ets": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.componentSnapshot.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.arkui.node.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/BuilderNode.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/FrameNode.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/RenderNode.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/Graphics.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.graphics.drawing.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/NodeController.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/arkui/XComponentNode.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.display.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.measure.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.PiPWindow.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.pluginComponent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.prompt.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets": {
+      "mtimeMs": 1713267745336.347,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsTypeModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/pages/Index.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets": {
+      "mtimeMs": 1713267963696.2334,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsTypeModel.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/pages/Index.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NewsItem.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/HttpUtil.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NoMoreLayout.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/pages/Index.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets": {
+      "mtimeMs": 1713267745347.2007,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NewsItem.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/LoadMoreLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/RefreshLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NoMoreLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsTypeModel.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets": {
+      "mtimeMs": 1713267745348.7341,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsTypeModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/HttpUtil.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/Logger.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/ResponseResult.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NewsItem.ets": {
+      "mtimeMs": 1713267745326.7883,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/LoadMoreLayout.ets": {
+      "mtimeMs": 1713267745328.6768,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/RefreshLayout.ets": {
+      "mtimeMs": 1713267745324.783,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets": {
+      "mtimeMs": 1713267745332.6143,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/LoadMoreLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/RefreshLayout.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsData.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NewsItem.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/LoadMoreLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/RefreshLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets": {
+      "mtimeMs": 1713267745342.0977,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NoMoreLayout.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets": {
+      "mtimeMs": 1713267745345.8171,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets": {
+      "mtimeMs": 1713267745350.2356,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/HttpUtil.ets": {
+      "mtimeMs": 1713267745330.4382,
+      "children": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/ResponseResult.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets"
+      ],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/Logger.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/ResponseResult.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/HttpUtil.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/kits/@kit.NetworkKit.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.connection.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.http.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.socket.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.security.cert.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.security.cryptoFramework.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.ethernet.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.mdns.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.policy.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.sharing.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.statistics.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.vpn.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.webSocket.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.net.vpnExtension.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/nav_destination.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/navigation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/node_container.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/pattern_lock.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/units.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/build-tools/ets-loader/declarations/web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Library/Huawei/Sdk/HarmonyOS-NEXT-DP2/base/ets/api/@ohos.print.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsTypeModel.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/TabBar.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/constant/CommonConstant.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/NewsData.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/newslist.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/NewsItem.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/LoadMoreLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/CustomRefreshLoadLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/view/RefreshLayout.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullDownRefresh.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/PullUpLoadMore.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsModel.ets"
+      ],
+      "error": false
+    },
+    "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/model/ResponseResult.ets": {
+      "mtimeMs": 1712662452000,
+      "children": [],
+      "parent": [
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/viewmodel/NewsViewModel.ets",
+        "/Users/ethan/Code/Harmony/CodeLab/NewsDataArkTS/entry/src/main/ets/common/utils/HttpUtil.ets"
+      ],
+      "error": false
+    }
+  }
+}

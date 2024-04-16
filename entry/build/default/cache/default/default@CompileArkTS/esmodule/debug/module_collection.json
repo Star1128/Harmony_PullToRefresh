@@ -1,0 +1,14 @@
+{
+  "entry/src/main/ets/view/NewsList.ets": [
+    "ohos.promptAction"
+  ],
+  "entry/src/main/ets/common/utils/HttpUtil.ets": [
+    "ohos.net.http"
+  ],
+  "entry/src/main/ets/common/utils/PullDownRefresh.ets": [
+    "ohos.promptAction"
+  ],
+  "entry/src/main/ets/common/utils/PullUpLoadMore.ets": [
+    "ohos.promptAction"
+  ]
+}

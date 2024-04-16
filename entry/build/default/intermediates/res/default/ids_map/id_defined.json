@@ -1,0 +1,170 @@
+{
+    "record" : 
+    [
+        {
+            "id" : "0x01000000",
+            "name" : "app_name",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000001",
+            "name" : "app_icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000002",
+            "name" : "EntryAbility_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000003",
+            "name" : "EntryAbility_label",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000004",
+            "name" : "dependency_reason",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000005",
+            "name" : "http_error_message",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000006",
+            "name" : "module_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000007",
+            "name" : "page_none_msg",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000008",
+            "name" : "prompt_message",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000009",
+            "name" : "pull_down_refresh_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000A",
+            "name" : "pull_up_load_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000B",
+            "name" : "refresh_fail_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000C",
+            "name" : "refresh_success_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000D",
+            "name" : "refreshing_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000E",
+            "name" : "release_refresh_text",
+            "type" : "string"
+        },
+        {
+            "id" : "0x0100000F",
+            "name" : "color_index",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000010",
+            "name" : "dividerColor",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000011",
+            "name" : "fontColor_text",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000012",
+            "name" : "fontColor_text1",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000013",
+            "name" : "fontColor_text2",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000014",
+            "name" : "fontColor_text3",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000015",
+            "name" : "listColor",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000016",
+            "name" : "start_window_background",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000017",
+            "name" : "white",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000018",
+            "name" : "ic_fail_refresh",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000019",
+            "name" : "ic_pull_down_refresh",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001A",
+            "name" : "ic_pull_up_load",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001B",
+            "name" : "ic_pull_up_refresh",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001C",
+            "name" : "ic_succeed_refresh",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001D",
+            "name" : "icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001E",
+            "name" : "news",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001F",
+            "name" : "none",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000020",
+            "name" : "main_pages",
+            "type" : "profile"
+        }
+    ]
+}
